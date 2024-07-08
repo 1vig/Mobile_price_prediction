@@ -1,0 +1,73 @@
+
+
+# Mobile Price Prediction
+
+This project aims to predict the prices of mobile phones based on various features using a machine learning approach. The dataset includes different attributes of mobile phones such as RAM, battery life, and screen size. The goal is to explore the data, build predictive models, and understand the factors that influence mobile phone prices.
+
+## Project Overview
+
+The main objectives of this project are:
+- **Data Exploration**: Understand the structure and distribution of the data, and identify key features that influence mobile phone prices.
+- **Data Cleaning**: Handle missing values, outliers, and any inconsistencies in the dataset.
+- **Feature Engineering**: Create new features that could improve the predictive power of the models.
+- **Model Building**: Develop and train machine learning models to predict mobile phone prices.
+- **Model Evaluation**: Assess the performance of the models using appropriate metrics and refine them for better accuracy.
+- **Visualization**: Create visualizations to showcase the insights and results of the analysis.
+
+## Dataset
+
+The dataset used in this project includes various features of mobile phones, such as:
+- RAM
+- Battery life
+- Screen size
+- Processor speed
+- Storage capacity
+- Camera quality
+- Operating system
+- Price
+- Other relevant features
+
+## Technologies Used
+
+- **Python**: For data analysis, model building, and visualization.
+- **Pandas**: For data manipulation and cleaning.
+- **NumPy**: For numerical operations.
+- **Scikit-learn**: For building and evaluating machine learning models.
+- **Matplotlib/Seaborn**: For creating visualizations.
+- **Jupyter Notebook**: For interactive data analysis and visualization.
+
+## How to Use
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/1vig/mobile-price-prediction.git
+    cd mobile-price-prediction
+    ```
+
+2. **Install the required dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the Jupyter Notebooks** to explore the data, build models, and visualize results:
+    ```bash
+    jupyter notebook
+    ```
+
+## Results
+
+The project demonstrates the process of predicting mobile phone prices using machine learning models. The results include:
+- Data visualizations that highlight trends and insights from the dataset.
+- Trained models with performance metrics.
+- A detailed analysis of the factors affecting mobile phone prices.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
